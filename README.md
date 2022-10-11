@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manish-cslabs
+- 👋 Hi, I’m [@manish-cslabs](https://www.linkedin.com/in/manish-bharti/)
 - 👀 I’m interested in learning musical instrument🎸, cyclying🚵‍, playing badminton🏸.
 - 🌱 I’m currently learning Flask, Python, Spring Boot, Rest API.
 - 💞️ I’m looking to collaborate on Open Source Projects.
